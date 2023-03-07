@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+.ge
+{
+    background-color: grey;
+    width:50%;
+    padding:10px 10px 10px 10px;
+    margin-left: 300px;
+}
+input{
+    width:250px;
+    padding:10px;
+}

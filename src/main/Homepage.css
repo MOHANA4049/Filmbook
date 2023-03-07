@@ -1,0 +1,42 @@
+/* body{
+    background: url("./images/BookMyShow.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  } */
+ .g
+ {
+  margin-top:100px;
+ }  
+    .Zoom:hover {
+      transform: scale(1.0); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {background-color: #4CAF50;
+    margin-left: 100px;
+     align-items: center;
+} 
+  .button2 {background-color: #008CBA;
+    margin-left: 100px;
+    align-items: center;
+}
+    .button3 {background-color: #4CAF50;
+      margin-left: 100px;
+      align-items: center;
+   } 
+     .button4 {background-color: #008CBA;
+      margin-left: 100px;
+      align-items: center;
+  } 
+  
